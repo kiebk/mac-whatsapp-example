@@ -5,6 +5,7 @@ Here's a very minimalistic example of how running a WhatsApp bot using Twilio AP
 ## Install
 After cloning the repo, run
 - `npm install` to install depencencies
+- Create a `.env` file based on .env.dist, and fill all missing information (your Twilio SID and auth token)
 - `npm run start` to start the express server
 
 ## Available commands
